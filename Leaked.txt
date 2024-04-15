@@ -1,0 +1,4 @@
+"AadClientId": "09191514-63c8-4591-b879-1043a4e851fb",
+  "AadSecret": "es28Q~bZ92MD3xl22NTXzx9NX.i.H1loHKbqAcck",
+  "AadTenantDomain": "224testlab.com.onmicrosoft.com",
+  "AadTenantId": "df53a643-059a-41a2-992e-7b8344360afa",
